@@ -1,0 +1,11 @@
+# Agent Runtime
+node_modules/
+AGENTS.md
+.agent/
+.agents/
+temp/
+
+# build & release
+dist/
+*.log
+.DS_Store

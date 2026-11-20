@@ -1,0 +1,14 @@
+{
+  "name": "dsc-humanize-assistant",
+  "version": "0.1.0",
+  "private": true,
+  "description": "克制简洁助手资产包:模仿 DeepSeek 网页版那种克制、简洁、少客套的表达",
+  "license": "Apache-2.0",
+  "author": "omds-chat",
+  "scripts": {
+    "validate": "node scripts/validate-asset-package.mjs assets/dsc-humanize-assistant"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
