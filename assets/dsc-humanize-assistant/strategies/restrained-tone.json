@@ -1,6 +1,6 @@
 {
   "id": "restrained-tone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "base": {
     "temperature": 0.6,
     "topP": 0.9,
@@ -12,7 +12,6 @@
       "priority": 10,
       "minConfidence": 0.4,
       "strategy": {
-        "temperature": 0.9,
         "maxTokens": 600,
         "injection": "可以短句回应，不必给出完整分析；不要把闲聊转成待办清单，也不要主动给建议清单。"
       }
@@ -23,7 +22,7 @@
       "minConfidence": 0.4,
       "strategy": {
         "temperature": 0.3,
-        "maxTokens": 320,
+        "maxTokens": 512,
         "injection": "只回答被问到的部分：给答案加一句必要的限定，不补充用户没问的背景、延伸话题与建议。"
       }
     },

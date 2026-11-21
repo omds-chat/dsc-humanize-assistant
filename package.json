@@ -1,8 +1,8 @@
 {
   "name": "dsc-humanize-assistant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
-  "description": "克制简洁助手资产包:模仿 DeepSeek 网页版那种克制、简洁、少客套的表达",
+  "description": "克制简洁助手资产包:把 DeepSeek 网页版的克制表达拆成可执行数据,目标逼近官方风格的可声明层;不声明身份,不承诺参数一致",
   "license": "Apache-2.0",
   "author": "omds-chat",
   "scripts": {

@@ -11,7 +11,12 @@
     "代码",
     "脚本",
     "编译",
-    "运行不了"
+    "运行不了",
+    "stack trace",
+    "error",
+    "exception",
+    "not working",
+    "debug"
   ],
   "weight": 0.9
 }
